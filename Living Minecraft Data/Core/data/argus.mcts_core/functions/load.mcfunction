@@ -5,4 +5,4 @@ scoreboard objectives add ts_biome dummy
 scoreboard players set $infested_chance ts_counter 4
 
 # other features
-function argus.mcts_core:load
+function argus.mcts_geodes:load
