@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            {
+                "translate": "pack.true_survival.core.name",
+                "color": "aqua"
+            }, "\n",
+            {
+                "text": "Argus",
+                "color": "dark_aqua"
+            }
+        ]
+    }
+}

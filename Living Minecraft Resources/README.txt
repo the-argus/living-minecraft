@@ -1,0 +1,1 @@
+HUGE thanks to Ancientkingg on github for making an incredible shader for rendering leather armor which enables the custom armor for this pack! Please check him out: https://github.com/Ancientkingg/fancyPants

@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bat_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Infested Gravel Spawn Egg\",\"color\":\"white\",\"italic\":false}'},EntityTag:{id:\"minecraft:area_effect_cloud\",Radius:0.0f,Duration:2147480000,Tags:[\"ts_infested_gravel\"]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

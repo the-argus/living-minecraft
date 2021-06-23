@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "#argus.mcts_core:needs_stone_tool"
+  ]
+}

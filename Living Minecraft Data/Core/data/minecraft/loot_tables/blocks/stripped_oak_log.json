@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:stripped_oak_log",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "items": [
+                      "minecraft:netherite_axe",
+                      "minecraft:diamond_axe",
+                      "minecraft:iron_axe",
+                      "minecraft:golden_axe",
+                      "minecraft:stone_axe",
+                      "minecraft:wooden_axe"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:loot_table",
+              "name": "argus.mcts_core:blocks/oak_log_noaxe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

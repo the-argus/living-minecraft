@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "argus.mcts_core:blocks/log_plank_bias/dark_oak_log_noaxe"
+            },
+            {
+              "type": "minecraft:loot_table",
+              "name": "argus.mcts_core:blocks/log_stick_bias/dark_oak_log_noaxe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

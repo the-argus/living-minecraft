@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:phantom_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Geode Spawn Egg\",\"color\":\"white\",\"italic\":false}'},EntityTag:{id:\"minecraft:area_effect_cloud\",Radius:0.0f,Duration:2147480000,Tags:[\"ts_geode\"]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

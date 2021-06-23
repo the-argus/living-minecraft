@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:story/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_sword"
+    },
+    "title": {
+      "translate": "advancements.core.kill_infestation.title"
+    },
+    "description": {
+      "translate": "advancements.core.kill_infestation.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:silverfish",
+          "nbt": "{Tags:[ts_infested]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

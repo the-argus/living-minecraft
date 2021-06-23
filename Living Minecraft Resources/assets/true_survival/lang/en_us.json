@@ -1,0 +1,12 @@
+{
+  "item.argus_mcts.stone_bit.name": "Stone Bit",
+  
+  "advancements.core.get_wood.title": "A New Beginning",
+  "advancements.core.get_wood.description": "Realize that flint might make a suitable axe-head for the stick you just aquired.",
+  "advancements.core.kill_infestation.title": "Extermination",
+  "advancements.core.kill_infestation.description": "Kill a silverfish from an infested gravel pile.",
+  
+  "pack.true_survival.core.name": "Living Minecraft Core",
+  "pack.true_survival.geodes.name": "Living Minecraft Geodes",
+  "pack.true_survival.name": "Living Minecraft"
+}
