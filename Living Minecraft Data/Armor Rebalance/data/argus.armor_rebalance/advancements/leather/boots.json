@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:leather_boots"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:leather/boots",
+    "loot": [
+      "argus.armor_rebalance:leather/boots"
+    ]
+  }
+}

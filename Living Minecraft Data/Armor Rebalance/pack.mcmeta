@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            {
+                "translate": "Alters the damage reduction values of armor.",
+                "color": "aqua"
+            }, "\n",
+            {
+                "text": "Argus",
+                "color": "dark_aqua"
+            }
+        ]
+    }
+}

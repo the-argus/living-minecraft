@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{argus_item:1,HideFlags:2,AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;74220401,1381125866,-1193455057,-536755307],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:20000,Operation:0,UUID:[I;1488869530,1614171380,-1526856840,132692978],Slot:\"chest\"},{AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:0.017,Operation:0,UUID:[I;793275415,667828491,-1669873004,-1738888912],Slot:\"chest\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

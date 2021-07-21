@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:golden_boots"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:golden/boots",
+    "loot": [
+      "argus.armor_rebalance:golden/boots"
+    ]
+  }
+}

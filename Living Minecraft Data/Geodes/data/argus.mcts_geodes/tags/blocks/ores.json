@@ -6,6 +6,7 @@
         "minecraft:iron_ore",
         "minecraft:gold_ore",
         "minecraft:lapis_ore",
-        "minecraft:redstone_ore"
+        "minecraft:redstone_ore",
+        "copper_ore"
     ]
 }

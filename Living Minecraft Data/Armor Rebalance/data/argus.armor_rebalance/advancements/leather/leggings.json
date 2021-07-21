@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:leather_leggings"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:leather/leggings",
+    "loot": [
+      "argus.armor_rebalance:leather/leggings"
+    ]
+  }
+}
