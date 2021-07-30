@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_boots"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:diamond/boots",
+    "loot": [
+      "argus.armor_rebalance:diamond/boots"
+    ]
+  }
+}

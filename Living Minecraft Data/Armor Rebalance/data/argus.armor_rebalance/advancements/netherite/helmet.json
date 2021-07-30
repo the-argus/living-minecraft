@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:netherite_helmet_smithing"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:netherite/helmet",
+    "loot": [
+      "argus.armor_rebalance:netherite/helmet"
+    ]
+  }
+}

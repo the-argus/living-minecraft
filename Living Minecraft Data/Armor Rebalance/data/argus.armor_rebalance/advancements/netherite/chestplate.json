@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:netherite_chestplate_smithing"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:netherite/chestplate",
+    "loot": [
+      "argus.armor_rebalance:netherite/chestplate"
+    ]
+  }
+}

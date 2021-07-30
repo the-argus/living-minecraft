@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_chestplate"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:diamond/chestplate",
+    "loot": [
+      "argus.armor_rebalance:diamond/chestplate"
+    ]
+  }
+}

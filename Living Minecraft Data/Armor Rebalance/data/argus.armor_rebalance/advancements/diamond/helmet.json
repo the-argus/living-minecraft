@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_helmet"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:diamond/helmet",
+    "loot": [
+      "argus.armor_rebalance:diamond/helmet"
+    ]
+  }
+}

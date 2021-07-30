@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:iron_leggings"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:iron/leggings",
+    "loot": [
+      "argus.armor_rebalance:iron/leggings"
+    ]
+  }
+}

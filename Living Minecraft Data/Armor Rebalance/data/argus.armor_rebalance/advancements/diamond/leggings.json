@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_leggings"
+      }
+    }
+  },
+  "rewards": {
+    "function": "argus.armor_rebalance:diamond/leggings",
+    "loot": [
+      "argus.armor_rebalance:diamond/leggings"
+    ]
+  }
+}

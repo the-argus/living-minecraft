@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{argus_item:1,HideFlags:2,AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;1242259305,-903264246,-2044918976,-30740553],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:20000,Operation:0,UUID:[I;-1829530953,-1492169327,-1954673564,817593809],Slot:\"legs\"},{AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:0.009,Operation:0,UUID:[I;563697632,-736280205,-1996705375,-1019048225],Slot:\"legs\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
