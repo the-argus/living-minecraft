@@ -3,14 +3,11 @@
     "requirement": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:netherite_boots_smithing"
+        "recipe": "argus.armor_rebalance:netherite_boots_shapeless"
       }
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:netherite/boots",
-    "loot": [
-      "argus.armor_rebalance:netherite/boots"
-    ]
+    "function": "argus.armor_rebalance:condition/netherite/boots"
   }
 }

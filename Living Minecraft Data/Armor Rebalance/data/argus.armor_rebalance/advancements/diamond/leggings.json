@@ -8,9 +8,6 @@
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:diamond/leggings",
-    "loot": [
-      "argus.armor_rebalance:diamond/leggings"
-    ]
+    "function": "argus.armor_rebalance:condition/diamond/leggings"
   }
 }

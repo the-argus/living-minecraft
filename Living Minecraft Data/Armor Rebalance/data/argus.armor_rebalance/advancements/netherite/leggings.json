@@ -3,14 +3,11 @@
     "requirement": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:netherite_leggings_smithing"
+        "recipe": "argus.armor_rebalance:netherite_leggings_shapeless"
       }
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:netherite/leggings",
-    "loot": [
-      "argus.armor_rebalance:netherite/leggings"
-    ]
+    "function": "argus.armor_rebalance:condition/netherite/leggings"
   }
 }

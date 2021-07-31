@@ -8,9 +8,6 @@
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:diamond/boots",
-    "loot": [
-      "argus.armor_rebalance:diamond/boots"
-    ]
+    "function": "argus.armor_rebalance:condition/diamond/boots"
   }
 }

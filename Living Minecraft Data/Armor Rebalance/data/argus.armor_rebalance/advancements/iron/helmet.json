@@ -8,9 +8,6 @@
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:iron/helmet",
-    "loot": [
-      "argus.armor_rebalance:iron/helmet"
-    ]
+    "function": "argus.armor_rebalance:condition/iron/helmet"
   }
 }

@@ -8,9 +8,6 @@
     }
   },
   "rewards": {
-    "function": "argus.armor_rebalance:leather/chestplate",
-    "loot": [
-      "argus.armor_rebalance:leather/chestplate"
-    ]
+    "function": "argus.armor_rebalance:condition/leather/chestplate"
   }
 }

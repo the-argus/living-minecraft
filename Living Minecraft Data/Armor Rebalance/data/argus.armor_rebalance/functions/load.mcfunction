@@ -19,3 +19,7 @@
 # +2 +2 +2 +2
 
 scoreboard objectives add ar_counter dummy
+
+
+# crafted scoreboards
+scoreboard objectives add ar_craft minecraft.crafted:minecraft.knowledge_book
